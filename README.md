@@ -1,2 +1,3 @@
-# turn-on-light
-Projeto de estudo JavaScript
+# turn-on-ligh
+Meu primeiro experimento bricando com JavaScript, CSS e imagens.
+
